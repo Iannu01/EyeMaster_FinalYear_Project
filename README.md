@@ -20,7 +20,7 @@ OpenCV
 Mediapipe
 PyAutoGUI
 
-#You can install the required packages using pip:
+# You can install the required packages using pip:
 pip install opencv-python mediapipe pyautogui
 How to Run
 Clone the repository: git clone https://github.com/yourusername/virtual-mouse-control.git
