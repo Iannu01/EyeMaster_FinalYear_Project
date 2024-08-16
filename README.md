@@ -14,7 +14,7 @@ Face Mesh Detection: Uses Mediapipe's face mesh module to detect landmarks aroun
 Cursor Control: Eye movements are tracked and mapped to screen coordinates, allowing the cursor to follow the user's gaze.
 Blink Detection: A click is simulated when the user blinks, detected by the relative positions of specific eye landmarks.
 
-#Prerequisites
+# Prerequisites
 Python
 OpenCV
 Mediapipe
