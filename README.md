@@ -1,6 +1,6 @@
 # EyeMaster_FinaleYear_Project
 
-Virtual Mouse Control using Hand and Eye Gestures
+## Virtual Mouse Control using Hand and Eye Gestures
 This project implements a virtual mouse system that allows users to control their mouse cursor using hand and eye movements. The system utilizes computer vision techniques, leveraging OpenCV and Mediapipe for real-time hand and face landmark detection. The project is divided into two main parts: hand-controlled mouse and eye-controlled mouse.
 
 Features
