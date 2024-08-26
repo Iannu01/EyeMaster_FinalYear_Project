@@ -81,3 +81,5 @@ The distance between the thumb and middle finger controls the click action.
 The script captures video and detects facial landmarks focusing on the eyes.
 Specific landmarks around the eyes are used to track eye movements, which are then mapped to screen coordinates.
 A click action is simulated based on the blink detection using the relative positions of eye landmarks.
+# eXAMPLE 
+
